@@ -2,8 +2,6 @@
 """
 
 
-# Assignment submission by -  "Nikhil Nagar"  for internship opportunity in "Chattel Technologies"
-
 # Overview : 1. This webscraper collects the news data and save it to csv files.(to save your time..it is limited to saving of 10 news article)
 #            2. Also a function is implemented to search a keyword in news and return sentences conatining the keyword. 
 
